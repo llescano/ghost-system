@@ -1,0 +1,9 @@
+[submodule "firmware/gateway"]
+	path = firmware/gateway
+	url = https://github.com/llescano/ghost-firmware-gateway.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/llescano/ghost-backend-supabase.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/llescano/ghost-webapp.git

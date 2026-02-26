@@ -7,3 +7,6 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/llescano/ghost-webapp.git
+[submodule "firmware/sensor"]
+	path = firmware/sensor
+	url = https://github.com/llescano/ghost-firmware-sensor.git
